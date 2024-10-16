@@ -36,7 +36,8 @@ const About = ()=>{
                 <h3 className='subhead-text '>Work Experience</h3>
                 <div className='mt-5 flex flex-col gap-3 text-slate-500'>
                     <p>
-                        I have worked with different teams and i worked with a some numbers of frameworks that i am very good at using each of them.Here's is the rundown:
+                        I have worked with different teams as a software trainee/intern and i worked with a some numbers of frameworks that i am very good at using each of them.Here's is the rundown:
+
                     </p>
                 </div>
                 <div className='mt-12 flex  '>
