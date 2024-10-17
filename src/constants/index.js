@@ -222,7 +222,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Full Stack Uber Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Uber" enabling users to Order ride and make payment.',
-        link: ' https://github.com/Philip-ajibola/uber_clone.git',
+        link: 'https://github.com/Philip-ajibola/uber_clone.git',
     },
     {
         iconUrl: event,
@@ -234,14 +234,14 @@ export const projects = [
     {
         iconUrl: chat,
         theme: 'btn-back-blue',
-        name: 'Full Stack Instagram Clone',
+        name: 'Chat Application',
         description: 'Developed a web application where by users can communicate to one another (on-going project).',
         link: 'https://github.com/Philip-ajibola/chatApplication',
     },
     {
         iconUrl: ecommerce,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
+        name: 'E-commerce Store',
         description: 'App that allows users to come to the website and purchase any product of their choice. A very responsive and User friendly Application',
         link: 'https://bobby-store-nu.vercel.app/',
     },
@@ -257,7 +257,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Library Management System',
         description: ' Developed a web application that allow librarian keep track of books that are been borrowed from the library, it helps keeps the record of how the bok is being borrowed and when the book is returned ',
-        link: 'https://github.com/MultiConnectWeb/multi_connect_mobile',
+        link: 'https://github.com/Philip-ajibola/LibraryManagementSystemApp',
     },
     {
         iconUrl: hub,
